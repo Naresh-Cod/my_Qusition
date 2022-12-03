@@ -1,0 +1,10 @@
+
+
+    ->  Variable --> Field
+    |
+  --|
+  | |
+  | ->  Function --> Methods
+  |
+  |_____->  Attribute
+
